@@ -1,4 +1,4 @@
-# xxe
+# XXE
 XML External Entity Injection（XXE）
 
 1.如果您的后台系统使用了官方SDK，请更新SDK到最新版本 SDK的链接:https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=11_1
